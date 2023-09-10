@@ -1,9 +1,0 @@
-C:\Users\fbm\source\repos\Clook\Clook\bin\Debug\Clook.exe.config
-C:\Users\fbm\source\repos\Clook\Clook\bin\Debug\Clook.exe
-C:\Users\fbm\source\repos\Clook\Clook\bin\Debug\Clook.pdb
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.csproj.AssemblyReference.cache
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.Properties.Resources.resources
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.csproj.GenerateResource.cache
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.csproj.CoreCompileInputs.cache
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.exe
-C:\Users\fbm\source\repos\Clook\Clook\obj\Debug\Clook.pdb
