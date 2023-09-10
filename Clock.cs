@@ -11,7 +11,7 @@ namespace Clock
         public Code()
         {
             InitializeComponent();
-            this.Text = "Clook";
+            this.Text = "Clock";
             this.MinimizeBox = false;
             this.MaximizeBox = false;
             this.Size = new Size(800, 800);
